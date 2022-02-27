@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The late prosperous proceedings of the Protestant army against the rebells in Ireland. Being a true and perfect relation of a great and happy victory obtained by the Marquesse of Ormond, the Lord Lile, Sir Richard Greenvile and their forces, over Generall Preston and a great body of the rebels; in which battell their whole army was totally routed, about forty of their chiefe commanders slaine, and at least 2000, common souldiers, to the great incouragement of the one, and terror of the other. As it was sent in a letter from a doctor of physicke in Dublin, and received here, Aprill 11. 1643.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84498</idno>
+            <idno type="STC">Wing E8</idno>
+            <idno type="STC">Thomason E96_8</idno>
+            <idno type="STC">ESTC R8691</idno>
+            <idno type="EEBO-CITATION">99873372</idno>
+            <idno type="PROQUEST">99873372</idno>
+            <idno type="VID">155811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155811)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E96[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The late prosperous proceedings of the Protestant army against the rebells in Ireland. Being a true and perfect relation of a great and happy victory obtained by the Marquesse of Ormond, the Lord Lile, Sir Richard Greenvile and their forces, over Generall Preston and a great body of the rebels; in which battell their whole army was totally routed, about forty of their chiefe commanders slaine, and at least 2000, common souldiers, to the great incouragement of the one, and terror of the other. As it was sent in a letter from a doctor of physicke in Dublin, and received here, Aprill 11. 1643.</title>
+                  <author>E. E., Doctor of physicke.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Aprill 12. Printed for John Wright, in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed E. E., Docter in physicke.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grenville, Richard, --  Sir, 1600-1658.</term>
+               <term>Leicester, Philip Sidney, --  Earl of, 1619-1698.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Preston, John, 17th cent.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155811:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE LATE PROSPEROVS PROCEEDINGS Of the Proteſtant Army againſt the Re<g ref="char:EOLhyphen"/>bells in IRELAND.</p>
+            <p>Being a true and perfect Relation of a great and happy Victory obtained by the Marqueſſe of <hi>Ormond,</hi> the Lord <hi>Lile,</hi> Sir <hi>Richard Greenvile</hi> and their Forces, over Generall <hi>Preston</hi> and a great body of the Rebels; In which Battell their whole Amry was totally routed, about forty of their chiefe Commanders ſlaine, and at leaſt 2000, common Souldiers, to the great incouragement of the one, and terror of the other.</p>
+            <p>As it was ſent in a Letter from a Doctor of Phyſicke in Dublin, and received here, Aprill 11. 1643.</p>
+            <p>LONDON: Aprill 12. Printed for John Wright, in the Old-Bailey. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155811:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:155811:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>Good newes from IRELAND.</head>
+            <opener>
+               <salute>Worthy Cozen.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know you expect a Relation of what we did in our late proceedings againſt the Rebells in theſe parts; I am now returned from the field, where we have ſufficiently diſperſed the Rogues, and where out of a curioſity to ſee what people did, I might as well have put a period to my life as any amongſt them, but being as I was an Eye witneſſe of all, I can the more truely enforme you thereof, the particulars of our ſucceſſe in briefe was this: Firſt<g ref="char:punc">▪</g> We commoned <hi>Martin</hi> Caſtle, and they yeelded, but marcht off without their Armes, It had good ſtore of Corne but was not very ſtrong, then we marched by <hi>Baly-Shannon</hi> and the Rogues appeared and ſhot at us from a farre, but hurt none of us. That night we marched by <hi>Tinmo-Linne,</hi> where they by <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t de<g ref="char:EOLhyphen"/>fied us, and ſome Horſemen being drunke came out in a bravado, but Captaine <hi>Treſwell</hi> ſnapped one of them, and the reſt retired into the Caſtle, wee tooke this Caſtle upon the non-ſlot, it being man<g ref="char:EOLhyphen"/>ned by very deſperate fellowes of which ſome ſcor<g ref="char:EOLhyphen"/>ned to aſke quarter of Parliament Rogues (as they
+<pb facs="tcp:155811:3"/>
+               <!-- PDF PAGE 3 -->
+               <pb facs="tcp:155811:3"/>
+               <!-- PDF PAGE 3 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:155811:4"/>
+               <!-- PDF PAGE 4 -->cal'd us) &amp; thoſe maintained a ſteeple by themſelves till it was all battered to the ground, &amp; they buried in the ruines, ſuch as asked quarter were promiſed. it by the common ſouldiers which knocked them on the head as faſt as they came downe for their cloathes, ſuch as had quarter given by Officers had it obſerved there were few of thoſe I think about foure, we killed here, two hundred and in the rage of the ſouldiers, ſome women and children were killed I was hartily ſorry to ſee it. The ſoul<g ref="char:EOLhyphen"/>diers c<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to be ſo enraged for the death of Lieve<g ref="char:EOLhyphen"/>tenant <hi>Oliver,</hi> a very gallant man ſlaine by a ſtone from the battlements<g ref="char:punc">▪</g> we loſt here ten men and had many hurt. At this time we tooke in a Paltry Caſtle at moone, there they went without Armes alſo, then we marched thence having ſtaid before <hi>Tinmolin</hi> two daies and on the way Captaine <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> met us who told us how neere <hi>Carlo</hi> he had notice of ſome of the Rogues which were ga<g ref="char:EOLhyphen"/>thered together and marching to Generall <hi>Preſton,</hi> they were about foure hundred of which he killed two hundred and tooke one Captaine and twenty priſoners, he loſt never a man in the buſineſſe.</p>
+            <p>Thence we marched onward (as Generall <hi>Pre<g ref="char:EOLhyphen"/>ſton</hi> might judge by our courſe to <hi>Waſhford</hi>) and in the way tooke a Captaine of Horſe of the Ene<g ref="char:EOLhyphen"/>mies, one <hi>Moſterſon,</hi> Captaine <hi>Pollard</hi> tooke him: but the next morning about two of the clocke, we couzined his expectation and went to <hi>Roſſe,</hi> they never expected us that way, for we ſaw them runne out of their townes juſt as we came to the townes<g ref="char:EOLhyphen"/>ſide,
+<pb facs="tcp:155811:4"/>
+               <!-- PDF PAGE 4 -->and all the way till then we found the townes empty. We tooke early in the morning two or three ſpies; who told us that Generall <hi>Preſton</hi> quartered that night behind the next hill which was but two miles off; our forlorne hope rode up to the Wals of <hi>Roſſe</hi> and were heartily bid welcome by them that kept the Fort for they tooke them for ſome of Gene<g ref="char:EOLhyphen"/>rall <hi>Preſtons</hi> Horſe, they might eaſily have kept the Port till freſh horſe had relieved them, and ſo have tooke the towne without loſſe of time or men, if they had knowne ſo much. This opportunity miſſed made the Lord <hi>Lile</hi> and Sir <hi>Richard-Greenvile</hi> chafe inwardly, it was ſo long ere the Foot came up and the Ordnance were planted, that Generall <hi>Preſton</hi> from the other ſide of the water preſently filled it with men: when we had made a breach we could not enter, we had left both our hand Grena<g ref="char:EOLhyphen"/>does and ſcaling ladders at home which was a foule fault. We had two Majors ſhot, two or three Gentlemen of Companies killed, and <hi>17,</hi> or <hi>18.</hi> common men, &amp; above <hi>40.</hi> ſhot. This made us al very melanchollique but the Marqueſſe of <hi>Ormond</hi> hea<g ref="char:EOLhyphen"/>ring that Generall <hi>Preſton</hi> lay very neer us, rayſed the ſiedge, and we marched from <hi>Roſſe</hi> to old <hi>Roſſe</hi> that night to looke for him, we ſaw many of his Horſe but they would not ſtand as ſoone as we were riſen from <hi>Roſſe,</hi> the men within the towne quit the towne, and joyned with Generall <hi>Preſton.</hi>
+            </p>
+            <p>The next day we marched all the morning with<g ref="char:EOLhyphen"/>in ſight of one another but could not come toge<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:155811:5"/>
+               <!-- PDF PAGE 5 -->for a great bogge: but about three of the clock we ioyned. The enemy made five thouſand ſhotte upon the forlorne hope led on by Captaine. <hi>Atkins</hi> and at the horſe which ſtood in order behind them and killed not one man, in this time our Ordnance were drawne up (which by the aſſiſtance of ſome ſeamen which were forced to leave their Ships in the River, and gunns alſo were ſo well plied) that they made great ſlaughter. Then they marched with as much reſolution as men could poſſible up toward the Ordnance but ſo many fell by the way that they began to rout, then the Lord <hi>Lile</hi> with his Horſe encountred their Horſe which advanced alſo to meete him, and truly he and Sir <hi>Richard Greenevile</hi> behaved themſelves ſo, that many of them fell in the Skirmiſh, a great many of their prime men were taken Priſoners, they fought gal<g ref="char:EOLhyphen"/>lantly for an houre and halfe, their Horſe till this inſtant (having never done any thing remarkable) fought bravely, their Nobility and chiefe gentry rode as volunteers in Troops, and like men they fought, but it pleaſed God not to proſper their en<g ref="char:EOLhyphen"/>deavours; There were killed in this fight Colo<g ref="char:EOLhyphen"/>nell <hi>Thomas Butler,</hi> Captaine <hi>Edward Butler</hi> and divers other of the Butlers, Sir <hi>Beverly Britton</hi> was ſlaine and Sir <hi>Morgan Cavanah</hi> Captaine <hi>Scarlough</hi> Captaine of Horſe, and (to be ſhort) a<g ref="char:EOLhyphen"/>bout Thirty of their prime men, <hi>Cullein</hi> the Lieve<g ref="char:EOLhyphen"/>tenant generall of the field, Serjant Major <hi>Butler</hi> Lieutenant <hi>Butler,</hi> Captaine <hi>Fitzgerald</hi> and three or
+<pb facs="tcp:155811:5"/>
+               <!-- PDF PAGE 5 -->foure more of their Captaines taken Priſoners they never met ſuch a counter buffe ſince the rebellion. We were indifferent well revenged for Roſſe, the force of the enemy is judged and confeſſed to be a<g ref="char:EOLhyphen"/>bout ſeven thouſand the ſlaine in the place ſcarce two hundred. I viewed the field from one end to the other, but they were above ſixſcore of them Gentlemen, and prime men that ſcorned to runne away, a great many died, as they marched away as we in our next dayes march found upon the wa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and in Hedges, we loſt never an Officer and had but one hurt, that was Sir <hi>Thomas Lucas</hi> a Privie Councellour, we loſt about <hi>15.</hi> men, but many were wounded. The next day at night, Generall <hi>Preſton</hi> quartered within halfe a mile of us, but he had a great river betwixt us and him, he could not get <hi>2000.</hi> together, the next day had he not cut of the bridge we had beene with him againe, as we underſtood by ſuch as runne from him to us, ſo great a feare had poſſeſſed his Soul<g ref="char:EOLhyphen"/>diers that he could ſcarce keepe the few he had to<g ref="char:EOLhyphen"/>gether. I had omitted one thing, as Sir <hi>James Dilhon</hi> was bringing his Forces to joyne with Ge<g ref="char:EOLhyphen"/>nerall <hi>Preſton,</hi> Major <hi>Pigot.</hi> (I weene) did as much for him as Captaine <hi>Harman</hi> had done for thoſe at <hi>Tullo,</hi> neere <hi>Carlo:</hi> he killed above <hi>200.</hi> of them. That <hi>Dilhon</hi> is a Puppie, he hath ever beene beaten by all that have fought with him moſt ſtrangely. Now we marched homewards, and in our returne did nothing ſave taking in two Caſtles,
+<pb facs="tcp:155811:6"/>
+               <!-- PDF PAGE 6 -->nor had any hurt done to us ſave ſeven or eight Ox<g ref="char:EOLhyphen"/>en ſtole one night, and another night they fell upon the horſe quarter, and killed one <hi>Cope</hi> a Gentle<g ref="char:EOLhyphen"/>man, and tooke two or three horſes. You have the to<g ref="char:EOLhyphen"/>tall ſurely.</p>
+            <p>I have done with <hi>William Robinſon,</hi> and ſhall make an end with you to if you faile me one Poſh. If my brother be not able to returne me of his own money, he is in ſlender condition, and I am (for a trick that I know) in much worſe. I ſee plainty <hi>Ire<g ref="char:EOLhyphen"/>land</hi> will be wonne if we can get any mony to ſubſiſt by, it is pitty ſo brave an Army ſhould be ſtarved. I thanke God the beſt people here valew me beyond my deſert farre, and I find much civility from all, and I doubt not Couſin but very ſhortly I ſhall be able to requite thoſe curteſies which you have ſhewed.</p>
+            <closer>
+               <signed>Your poore friend and Kinſman E. E. Doctor in Phyſicke.</signed>
+               <dateline>
+                  <date>Aprilis Primo, 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
